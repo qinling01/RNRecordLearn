@@ -1,6 +1,0 @@
-framework module Pods_QLFileManagerTests {
-  umbrella header "Pods-QLFileManagerTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
